@@ -2875,3 +2875,17 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [18:08:36] [Server thread/INFO]: [VALENINFINITE: Teleported VALENINFINITE to Narue]
 [18:08:42] [Server thread/INFO]: VALENINFINITE has made the advancement [Monster Hunter]
 [18:13:57] [Server thread/INFO]: Narue has made the advancement [Scarlet Temptation]
+[18:16:07] [Server thread/INFO]: [VALENINFINITE: Teleported Narue to VALENINFINITE]
+[18:16:58] [Server thread/INFO]: [VALENINFINITE: Teleported Narue to VALENINFINITE]
+[18:19:18] [Server thread/INFO]: [VALENINFINITE: Teleported VALENINFINITE to Narue]
+[18:21:39] [Server thread/INFO]: [VALENINFINITE: Teleported VALENINFINITE to Narue]
+[18:22:22] [Server thread/INFO]: VALENINFINITE lost connection: Disconnected
+[18:22:22] [Server thread/INFO]: VALENINFINITE left the game
+[18:22:22] [Server thread/INFO]: remove player wand
+[18:22:22] [Server thread/INFO]: Updating all forceload tickets for 12baa43c-379c-3f7e-899a-168475f487e2
+[18:22:23] [Server thread/INFO]: Narue lost connection: Disconnected
+[18:22:23] [Server thread/INFO]: Narue left the game
+[18:22:23] [Server thread/INFO]: remove player wand
+[18:22:23] [Server thread/INFO]: Updating all forceload tickets for b79b1ffa-0fa8-30b0-98c9-6f08a945d030
+[18:23:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:23:00] [Server thread/INFO]: backup<--[HERE]
