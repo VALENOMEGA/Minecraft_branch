@@ -2870,3 +2870,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [18:02:30] [Server thread/INFO]: Narue has made the advancement [Isn't It Iron Pick]
 [18:02:52] [Server thread/INFO]: Villager class_1646['Moses'/8, l='ServerLevel[world]', x=56.50, y=225.50, z=27.42] died, message: 'Moses hit the ground too hard'
 [18:02:52] [Server thread/INFO]: Named entity class_1646['Moses'/8, l='ServerLevel[world]', x=56.50, y=225.50, z=27.42] died: Moses fell from a high place
+[18:08:21] [Server thread/INFO]: Made VALENINFINITE a server operator
+[18:08:21] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of VALENINFINITE accepted server config.
+[18:08:36] [Server thread/INFO]: [VALENINFINITE: Teleported VALENINFINITE to Narue]
+[18:08:42] [Server thread/INFO]: VALENINFINITE has made the advancement [Monster Hunter]
+[18:13:57] [Server thread/INFO]: Narue has made the advancement [Scarlet Temptation]
