@@ -1,0 +1,17 @@
+{
+	id: "12baa43c-379c-3f7e-899a-168475f487e2"
+	type: "player"
+	player_name: "VALENINFINITE"
+	ranks: {
+		12baa43c-379c-3f7e-899a-168475f487e2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "VALENINFINITE"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF599D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
