@@ -8509,9 +8509,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/emerald_gear_helmet": {
     "criteria": {
       "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2024-11-16 19:16:36 +0000"
     },
     "done": true
   },
@@ -8521,9 +8533,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2024-11-16 19:16:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/potato_chips": {
     "criteria": {
       "has_potato": "2024-11-16 18:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-16 19:16:23 +0000"
     },
     "done": true
   },
@@ -8539,9 +8569,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2024-11-16 19:13:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/electric_furnace": {
     "criteria": {
       "has_electronic_circuit": "2024-11-16 18:49:37 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/garlic_bread": {
+    "criteria": {
+      "has_item": "2024-11-16 19:14:47 +0000"
     },
     "done": true
   },
@@ -8581,6 +8623,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_refined_iron_ingot": "2024-11-16 19:07:32 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/reinforced_mail_boots": {
     "criteria": {
       "has_iron_boots": "2024-11-16 18:49:32 +0000"
@@ -8593,9 +8641,33 @@
     },
     "done": true
   },
+  "betterend:hammer": {
+    "criteria": {
+      "got_diamond_hammer": "2024-11-16 19:09:21 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/obsidian_plate_from_block": {
     "criteria": {
       "has_obsidian": "2024-11-16 18:48:35 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-11-16 19:13:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2024-11-16 19:11:43 +0000"
     },
     "done": true
   },
@@ -8605,9 +8677,27 @@
     },
     "done": true
   },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-11-16 18:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-11-16 19:11:43 +0000"
     },
     "done": true
   },
@@ -8620,6 +8710,30 @@
   "techreborn:recipes/extractor/rubber_from_rubber_sapling": {
     "criteria": {
       "has_rubber_sapling": "2024-11-16 18:48:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
+    "criteria": {
+      "has_refined_iron": "2024-11-16 19:07:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
+    "criteria": {
+      "has_refined_iron": "2024-11-16 19:07:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-16 19:11:43 +0000"
     },
     "done": true
   },
@@ -8659,6 +8773,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/wire_mill/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2024-11-16 19:07:32 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kirkhammer": {
     "criteria": {
       "has_item": "2024-11-16 18:57:52 +0000"
@@ -8683,9 +8803,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-16 19:13:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
     "criteria": {
       "has_lead_ingot": "2024-11-16 18:49:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/manual": {
+    "criteria": {
+      "has_ingot": "2024-11-16 19:07:32 +0000"
     },
     "done": true
   },
@@ -8698,6 +8830,24 @@
   "mcda:recipes/base_armors/mercenary_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2024-11-16 18:56:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
+    "criteria": {
+      "has_refined_iron_ingot": "2024-11-16 19:07:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-11-16 19:11:43 +0000"
     },
     "done": true
   },
@@ -8716,6 +8866,18 @@
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2024-11-16 19:07:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-16 19:13:02 +0000"
     },
     "done": true
   },
@@ -8761,9 +8923,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2024-11-16 19:07:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/lead_plate": {
     "criteria": {
       "has_tag_c_lead_ingots": "2024-11-16 18:49:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/netherite_hammer": {
+    "criteria": {
+      "has_item.betterend.diamond_hammer": "2024-11-16 19:09:21 +0000"
     },
     "done": true
   },
@@ -8785,6 +8959,42 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
     "criteria": {
       "has_electronic_circuit": "2024-11-16 18:49:37 +0000"
@@ -8800,6 +9010,18 @@
   "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
     "criteria": {
       "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:refinediron": {
+    "criteria": {
+      "crit_0": "2024-11-16 19:07:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2024-11-16 19:07:32 +0000"
     },
     "done": true
   },
@@ -8839,6 +9061,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-16 19:13:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_bed": {
     "criteria": {
       "has_bed": "2024-11-16 18:48:11 +0000"
@@ -8851,6 +9079,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-16 19:13:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2024-11-16 19:07:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
     "criteria": {
       "has_iron_helmet": "2024-11-16 18:56:16 +0000"
@@ -8860,6 +9100,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2024-11-16 18:53:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-11-16 19:13:02 +0000"
     },
     "done": true
   },
@@ -8912,6 +9158,72 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2024-11-16 19:07:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2024-11-16 18:55:46 +0000"
@@ -8921,6 +9233,12 @@
   "mcdw:recipes/bows/bow_phantom_bow": {
     "criteria": {
       "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-16 19:13:02 +0000"
     },
     "done": true
   },
@@ -8966,9 +9284,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2024-11-16 19:07:32 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2024-11-16 19:11:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/data_storage_core": {
     "criteria": {
       "has_electronic_circuit": "2024-11-16 18:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-11-16 19:16:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2024-11-16 19:07:32 +0000"
     },
     "done": true
   },
@@ -9017,6 +9365,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/emerald_nugget": {
     "criteria": {
       "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-11-16 19:13:02 +0000"
     },
     "done": true
   },
