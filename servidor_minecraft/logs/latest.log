@@ -3248,3 +3248,45 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [17:51:36] [Server thread/INFO]: VALENINFINITE left the game
 [17:51:36] [Server thread/INFO]: remove player wand
 [17:51:36] [Server thread/INFO]: Updating all forceload tickets for 12baa43c-379c-3f7e-899a-168475f487e2
+[17:58:04] [Server thread/INFO]: R has made the advancement ['X' Marks the Spot]
+[17:58:10] [Server thread/INFO]: ULTRON387 has made the advancement ['X' Marks the Spot]
+[18:00:11] [Server thread/INFO]: R has made the advancement [Scarlet Temptation]
+[18:01:25] [Server thread/INFO]: Villager class_1646['Thresa'/15, l='ServerLevel[world]', x=38.14, y=214.00, z=64.61] died, message: 'Thresa hit the ground too hard'
+[18:01:25] [Server thread/INFO]: Named entity class_1646['Thresa'/15, l='ServerLevel[world]', x=38.14, y=214.00, z=64.61] died: Thresa fell from a high place
+[18:01:34] [Server thread/INFO]: <ULTRON387> 320 -320
+[18:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
+[18:04:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[18:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:05:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3497ms or 69 ticks behind
+[18:05:48] [Server thread/INFO]: [Handshake] Sending channel query
+[18:05:48] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[18:05:48] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[18:05:49] [Server thread/INFO]: VALENINFINITE[/127.158.63.66:53695] logged in with entity id 20043 at (-32.69999998807907, -54.0, 182.92352974702968)
+[18:05:49] [Server thread/INFO]: Sending server config values to client
+[18:05:49] [Server thread/INFO]: Syncing config to VALENINFINITE (12baa43c-379c-3f7e-899a-168475f487e2)
+[18:05:49] [Server thread/INFO]: Loading config from file...
+[18:05:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:05:50] [Server thread/INFO]: VALENINFINITE joined the game
+[18:05:50] [Server thread/INFO]: PLAYER_JOIN
+[18:05:50] [Server thread/INFO]: add_player wand
+[18:05:50] [Server thread/INFO]: config sent
+[18:05:50] [Server thread/INFO]: Updating all forceload tickets for 12baa43c-379c-3f7e-899a-168475f487e2
+[18:05:51] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[18:05:54] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: VALENINFINITE -> Global
+[18:05:54] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player VALENINFINITE. Claiming: GRAVE / Robbing: INVENTORY
+[18:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[18:05:55] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-2033881339,-1652601478,-1701575928,336667403],type:"minecraft:entity",y_offset:0.36f}}]
+[18:05:55] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;141146379,-1356054298,-1689979242,1547817965],type:"minecraft:entity",y_offset:0.36f}}]
+[18:05:56] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VALENINFINITE accepted server config.
+[18:08:59] [Server thread/INFO]: ULTRON387 froze to death
+[18:09:00] [Server thread/INFO]: R froze to death
+[18:09:02] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of R accepted server config.
+[18:09:02] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ULTRON387 accepted server config.
+[18:11:23] [Server thread/INFO]: [VALENINFINITE: Teleported VALENINFINITE to Narue]
+[18:11:51] [Server thread/INFO]: [VALENINFINITE: Teleported Narue to VALENINFINITE]
+[18:12:04] [Server thread/INFO]: Narue has made the advancement [Not Today, Thank You]
+[18:12:06] [Server thread/INFO]: Narue has made the advancement [Monster Hunter]
+[18:12:34] [Server thread/INFO]: Villager class_1646['Richie'/74, l='ServerLevel[world]', x=57.19, y=225.00, z=29.74] died, message: 'Richie hit the ground too hard'
+[18:12:34] [Server thread/INFO]: Named entity class_1646['Richie'/74, l='ServerLevel[world]', x=57.19, y=225.00, z=29.74] died: Richie fell from a high place
+[18:13:46] [Server thread/INFO]: R claimed a grave belonging to R at 532, 113, -611, minecraft:overworld
+[18:13:47] [Server thread/INFO]: ULTRON387 claimed a grave belonging to ULTRON387 at 535, 114, -609, minecraft:overworld

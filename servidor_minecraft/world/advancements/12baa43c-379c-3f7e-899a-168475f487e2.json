@@ -7372,15 +7372,279 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/copy_bowl_upgrade": {
-    "criteria": {
-      "has_diamond": "2024-11-16 17:44:30 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
     "criteria": {
       "has_ruby_gem": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
+    "criteria": {
+      "has_red_garnet_gem": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_rubies": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_garnet_dust": {
+    "criteria": {
+      "has_tag_c_red_garnet_gems": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_raw_silver": "2024-11-16 17:31:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2024-11-16 17:31:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_silver": {
+    "criteria": {
+      "has_raw_silver_ores": "2024-11-16 17:31:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2024-11-16 17:31:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2024-11-16 17:31:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_bauxite_ores": "2024-11-16 17:31:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2024-11-16 17:31:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2024-11-16 17:31:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2024-11-16 17:31:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2024-11-16 17:31:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_galena_ores": "2024-11-16 17:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-11-16 17:34:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-11-16 17:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-11-16 17:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-11-16 17:34:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-11-16 17:35:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-11-16 17:35:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-11-16 17:35:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-11-16 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-11-16 17:44:30 +0000"
     },
     "done": true
   },
@@ -7414,51 +7678,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/tools/moonstone_axe_right": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
-    "criteria": {
-      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
-    "criteria": {
-      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/bluemoon_greatsword": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_axe_left": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/bluemoon_shortsword": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
-    "criteria": {
-      "has_raw_silver": "2024-11-16 17:31:28 +0000"
     },
     "done": true
   },
@@ -7468,39 +7690,15 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/decorations/blackstone_pedestal": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/parts/template_template": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
-    "criteria": {
-      "has_red_garnet_gem": "2024-11-16 17:31:22 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
-    "criteria": {
-      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_material": "2024-11-16 17:44:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
-    "criteria": {
-      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
     },
     "done": true
   },
@@ -7546,27 +7744,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-11-16 17:34:02 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
-    "criteria": {
-      "has_tag_c_raw_silver_ores": "2024-11-16 17:31:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/raw_lead": {
-    "criteria": {
-      "has_raw_lead_ores": "2024-11-16 17:31:43 +0000"
     },
     "done": true
   },
@@ -7606,45 +7786,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
-    "criteria": {
-      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/copy_netherite_upgrade": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/building_blocks/moonstone_block": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_shovel": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/sweet_tooth_helmet": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
-    "criteria": {
-      "has_tag_c_galena_ores": "2024-11-16 17:31:54 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
-    "criteria": {
-      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
     },
     "done": true
   },
@@ -7657,12 +7807,6 @@
   "betterend:recipes/misc/copy_leather_handle_attachment": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/raw_silver": {
-    "criteria": {
-      "has_raw_silver_ores": "2024-11-16 17:31:28 +0000"
     },
     "done": true
   },
@@ -7679,12 +7823,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2024-11-16 17:35:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
@@ -7697,57 +7835,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/tools/moonstone_hoe_left": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/altar_block": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/moonstone": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-11-16 17:34:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/ruby_dust": {
-    "criteria": {
-      "has_tag_c_rubies": "2024-11-16 17:31:22 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/red_garnet_dust": {
-    "criteria": {
-      "has_tag_c_red_garnet_gems": "2024-11-16 17:31:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2024-11-16 17:35:13 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
-    "criteria": {
-      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
     },
     "done": true
   },
@@ -7757,21 +7847,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
-    "criteria": {
-      "has_raw_silver": "2024-11-16 17:31:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
-    "criteria": {
-      "has_tag_c_raw_lead_ores": "2024-11-16 17:31:43 +0000"
     },
     "done": true
   },
@@ -7787,12 +7865,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
-    "criteria": {
-      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2024-11-16 17:44:30 +0000"
@@ -7802,12 +7874,6 @@
   "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2024-11-16 17:35:13 +0000"
     },
     "done": true
   },
@@ -7823,18 +7889,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-11-16 17:34:02 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
-    "criteria": {
-      "has_tag_c_raw_silver_ores": "2024-11-16 17:31:28 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/synthetic_redstone_crystal": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
@@ -7844,24 +7898,6 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2024-11-16 17:34:02 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
-    "criteria": {
-      "has_tag_c_raw_lead_ores": "2024-11-16 17:31:43 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_hoe_right": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
     },
     "done": true
   },
@@ -7877,18 +7913,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
-    "criteria": {
-      "has_ruby_gem": "2024-11-16 17:31:22 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/boss_compass": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
@@ -7901,12 +7925,6 @@
     },
     "done": true
   },
-  "soulsweapons:moonstone": {
-    "criteria": {
-      "item": "2024-11-16 17:36:18 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
@@ -7916,24 +7934,6 @@
   "mcda:recipes/base_armors/sweet_tooth_leggings": {
     "criteria": {
       "has_diamond": "2024-11-16 17:44:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
-    "criteria": {
-      "has_raw_lead": "2024-11-16 17:31:43 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
-    "criteria": {
-      "has_tag_c_bauxite_ores": "2024-11-16 17:31:35 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_pickaxe": {
-    "criteria": {
-      "has_item": "2024-11-16 17:36:18 +0000"
     },
     "done": true
   },
