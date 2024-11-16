@@ -3290,3 +3290,12 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [18:12:34] [Server thread/INFO]: Named entity class_1646['Richie'/74, l='ServerLevel[world]', x=57.19, y=225.00, z=29.74] died: Richie fell from a high place
 [18:13:46] [Server thread/INFO]: R claimed a grave belonging to R at 532, 113, -611, minecraft:overworld
 [18:13:47] [Server thread/INFO]: ULTRON387 claimed a grave belonging to ULTRON387 at 535, 114, -609, minecraft:overworld
+[18:16:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:16:34] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground]] from pos class_2338{x=651, y=93, z=-859}
+[18:17:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18139ms or 362 ticks behind
+[18:19:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[18:20:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18:21:49] [Server thread/INFO]: Narue has made the advancement [Gravedigger]
+[18:22:03] [Server thread/INFO]: Narue has made the advancement [Well prepared]
+[18:22:13] [Server thread/INFO]: Narue has made the advancement [Suit Up]
