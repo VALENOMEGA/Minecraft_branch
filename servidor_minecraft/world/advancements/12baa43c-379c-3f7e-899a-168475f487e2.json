@@ -599,13 +599,17 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "rocky_meadow": "2024-11-15 04:24:29 +0000"
+      "silver_birch_forest": "2024-11-16 18:29:27 +0000",
+      "rocky_meadow": "2024-11-15 04:24:29 +0000",
+      "maple_forest": "2024-11-16 18:28:14 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "rocky_meadow": "2024-11-15 04:24:29 +0000"
+      "silver_birch_forest": "2024-11-16 18:29:27 +0000",
+      "rocky_meadow": "2024-11-15 04:24:29 +0000",
+      "maple_forest": "2024-11-16 18:28:14 +0000"
     },
     "done": false
   },

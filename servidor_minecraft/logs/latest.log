@@ -3299,3 +3299,89 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [18:21:49] [Server thread/INFO]: Narue has made the advancement [Gravedigger]
 [18:22:03] [Server thread/INFO]: Narue has made the advancement [Well prepared]
 [18:22:13] [Server thread/INFO]: Narue has made the advancement [Suit Up]
+[18:25:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18:25:48] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=895, y=118, z=-913} but found not block entity block Block{minecraft:ice} at location
+[18:25:48] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=895, y=118, z=-913}
+[18:25:48] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=895, y=118, z=-914} but found not block entity block Block{minecraft:ice} at location
+[18:25:48] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=895, y=118, z=-914}
+[18:25:48] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=895, y=117, z=-915} but found not block entity block Block{minecraft:ice} at location
+[18:25:48] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=895, y=117, z=-915}
+[18:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2819ms or 56 ticks behind
+[18:26:21] [Server thread/INFO]: ULTRON387 has made the advancement [This Must be a Sign!]
+[18:26:28] [Server thread/INFO]: R has made the advancement [This Must be a Sign!]
+[18:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18:27:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[18:28:13] [Server thread/INFO]: [VALENINFINITE: Teleported VALENINFINITE to Narue]
+[18:28:54] [Server thread/INFO]: [VALENINFINITE: Teleported VALENINFINITE to Narue]
+[18:28:59] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=912, y=123, z=-959} but found not block entity block Block{minecraft:ice} at location
+[18:28:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=912, y=123, z=-959}
+[18:28:59] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=912, y=124, z=-960} but found not block entity block Block{minecraft:ice} at location
+[18:28:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=912, y=124, z=-960}
+[18:28:59] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=912, y=121, z=-960} but found not block entity block Block{minecraft:ice} at location
+[18:28:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=912, y=121, z=-960}
+[18:28:59] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=913, y=122, z=-960} but found not block entity block Block{minecraft:ice} at location
+[18:28:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=913, y=122, z=-960}
+[18:28:59] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=913, y=123, z=-960} but found not block entity block Block{minecraft:ice} at location
+[18:28:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=913, y=123, z=-960}
+[18:28:59] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=913, y=122, z=-959} but found not block entity block Block{minecraft:ice} at location
+[18:28:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=913, y=122, z=-959}
+[18:28:59] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=912, y=121, z=-959} but found not block entity block Block{minecraft:ice} at location
+[18:28:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=912, y=121, z=-959}
+[18:28:59] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=912, y=122, z=-961} but found not block entity block Block{minecraft:ice} at location
+[18:28:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=912, y=122, z=-961}
+[18:29:02] [Server thread/INFO]: <Narue> xaero-waypoint:amatista:A:-112:-56:94:13:false:0:Internal-overworld-waypoints
+[18:29:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=946, y=109, z=-737} but found not block entity block Block{minecraft:ice} at location
+[18:29:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=946, y=109, z=-737}
+[18:29:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=945, y=109, z=-737} but found not block entity block Block{minecraft:ice} at location
+[18:29:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=945, y=109, z=-737}
+[18:29:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=946, y=110, z=-737} but found not block entity block Block{minecraft:ice} at location
+[18:29:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=946, y=110, z=-737}
+[18:29:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=945, y=110, z=-737} but found not block entity block Block{minecraft:ice} at location
+[18:29:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=945, y=110, z=-737}
+[18:29:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=944, y=109, z=-737} but found not block entity block Block{minecraft:ice} at location
+[18:29:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=944, y=109, z=-737}
+[18:29:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=959, y=118, z=-768} but found not block entity block Block{minecraft:ice} at location
+[18:29:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=959, y=118, z=-768}
+[18:29:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=959, y=117, z=-768} but found not block entity block Block{minecraft:ice} at location
+[18:29:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=959, y=117, z=-768}
+[18:29:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=945, y=109, z=-736} but found not block entity block Block{minecraft:ice} at location
+[18:29:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=945, y=109, z=-736}
+[18:29:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=945, y=110, z=-736} but found not block entity block Block{minecraft:ice} at location
+[18:29:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=945, y=110, z=-736}
+[18:29:23] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=944, y=109, z=-736} but found not block entity block Block{minecraft:ice} at location
+[18:29:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=944, y=109, z=-736}
+[18:29:24] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=944, y=118, z=-944} but found not block entity block Block{minecraft:ice} at location
+[18:29:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=944, y=118, z=-944}
+[18:29:24] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=945, y=119, z=-944} but found not block entity block Block{minecraft:ice} at location
+[18:29:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=945, y=119, z=-944}
+[18:29:24] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=945, y=118, z=-944} but found not block entity block Block{minecraft:ice} at location
+[18:29:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=945, y=118, z=-944}
+[18:29:24] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=944, y=117, z=-944} but found not block entity block Block{minecraft:ice} at location
+[18:29:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=944, y=117, z=-944}
+[18:29:24] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=944, y=118, z=-943} but found not block entity block Block{minecraft:ice} at location
+[18:29:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=944, y=118, z=-943}
+[18:29:24] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=944, y=119, z=-944} but found not block entity block Block{minecraft:ice} at location
+[18:29:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=944, y=119, z=-944}
+[18:29:26] [Server thread/INFO]: [VALENINFINITE: Teleported VALENINFINITE to ULTRON387]
+[18:30:40] [Server thread/INFO]: [VALENINFINITE: Teleported VALENINFINITE to Narue]
+[18:31:54] [Server thread/INFO]: [VALENINFINITE: Teleported Narue to VALENINFINITE]
+[18:33:25] [Server thread/INFO]: VALENINFINITE has made the advancement ['X' Marks the Spot]
+[18:33:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18:34:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=912, y=108, z=-1023} but found not block entity block Block{minecraft:ice} at location
+[18:34:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=912, y=108, z=-1023}
+[18:34:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=912, y=109, z=-1022} but found not block entity block Block{minecraft:ice} at location
+[18:34:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=912, y=109, z=-1022}
+[18:34:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=913, y=108, z=-1024} but found not block entity block Block{minecraft:ice} at location
+[18:34:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=913, y=108, z=-1024}
+[18:34:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=912, y=108, z=-1024} but found not block entity block Block{minecraft:ice} at location
+[18:34:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=912, y=108, z=-1024}
+[18:34:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=912, y=108, z=-1022} but found not block entity block Block{minecraft:ice} at location
+[18:34:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=912, y=108, z=-1022}
+[18:34:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=913, y=108, z=-1023} but found not block entity block Block{minecraft:ice} at location
+[18:34:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=913, y=108, z=-1023}
+[18:34:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=913, y=109, z=-1022} but found not block entity block Block{minecraft:ice} at location
+[18:34:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=913, y=109, z=-1022}
+[18:34:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18:34:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
