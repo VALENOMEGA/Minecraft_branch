@@ -2977,3 +2977,41 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [18:49:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
 [18:49:32] [Server thread/INFO]: VALENINFINITE has made the advancement [Suit Up]
 [18:49:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3384ms or 67 ticks behind
+[18:49:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[18:50:35] [Server thread/INFO]: R has made the advancement [Stay dead]
+[18:51:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[18:51:22] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[18:51:24] [Server thread/INFO]: R has made the advancement [Not Today, Thank You]
+[18:51:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4862ms or 97 ticks behind
+[18:51:45] [Server thread/INFO]: Villager class_1646['Robt'/268, l='ServerLevel[world]', x=876.51, y=122.00, z=-723.30] died, message: 'Robt was shot by Pillager'
+[18:51:45] [Server thread/INFO]: Named entity class_1646['Robt'/268, l='ServerLevel[world]', x=876.51, y=122.00, z=-723.30] died: Robt was shot by Pillager
+[18:52:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:52:16] [Server thread/INFO]: R has made the advancement [Gravedigger]
+[18:52:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18:52:49] [Server thread/INFO]: ULTRON387 has made the advancement [Gravedigger]
+[18:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[18:53:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
+[18:53:55] [Server thread/INFO]: ULTRON387 was slain by Enderman
+[18:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[18:53:57] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of ULTRON387 accepted server config.
+[18:54:14] [Server thread/INFO]: [VALENINFINITE: Teleported R to ULTRON387]
+[18:54:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6455ms or 129 ticks behind
+[18:55:17] [Server thread/INFO]: VALENINFINITE has made the advancement [Novice Spellcaster]
+[18:55:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18:55:31] [Server thread/WARN]: UUID of added entity already exists: MimicEntity['Mimic'/11930, l='ServerLevel[world]', x=20.50, y=-25.50, z=-466.50]
+[18:55:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[18:55:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[18:56:11] [Server thread/INFO]: VALENINFINITE has made the advancement [Disme A Dozen]
+[18:56:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
+[18:56:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4111ms or 82 ticks behind
+[18:56:51] [Server thread/INFO]: [VALENINFINITE: Teleported VALENINFINITE to 50.500000, 236.500000, 2.500000]
+[18:56:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3775ms or 75 ticks behind
+[18:57:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
+[18:57:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
+[18:57:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2936ms or 58 ticks behind
+[18:58:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
+[18:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[18:59:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:59:28] [Server thread/INFO]: ULTRON387 claimed a grave belonging to ULTRON387 at 429, 86, -937, minecraft:overworld
+[18:59:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
