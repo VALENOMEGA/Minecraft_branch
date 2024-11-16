@@ -2864,3 +2864,41 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [17:23:30] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: ULTRON387 -> Global
 [17:23:30] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player ULTRON387. Claiming: GRAVE / Robbing: INVENTORY
 [17:23:33] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ULTRON387 accepted server config.
+[17:24:05] [Server thread/INFO]: Narue has made the advancement [Diamonds!]
+[17:24:32] [Server thread/INFO]: ULTRON387 was blown up by Creeper
+[17:24:32] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17:24:32] [Netty Epoll Server IO #5/ERROR]: Combo count: 12 is dual wielding: false
+[17:24:32] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[17:24:32] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[17:24:32] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 0 | client: 0
+[17:24:34] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ULTRON387 accepted server config.
+[17:24:45] [Server thread/INFO]: ULTRON387 fell from a high place
+[17:24:47] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ULTRON387 accepted server config.
+[17:25:16] [Server thread/INFO]: ULTRON387 claimed a grave belonging to ULTRON387 at -12, 71, 25, minecraft:overworld
+[17:26:46] [Server thread/INFO]: VALENINFINITE has made the advancement [Acquire Hardware]
+[17:27:07] [Server thread/INFO]: VALENINFINITE has made the advancement [Isn't It Iron Pick]
+[17:30:00] [Server thread/INFO]: VALENINFINITE lost connection: Disconnected
+[17:30:00] [Server thread/INFO]: VALENINFINITE left the game
+[17:30:00] [Server thread/INFO]: remove player wand
+[17:30:00] [Server thread/INFO]: Updating all forceload tickets for 12baa43c-379c-3f7e-899a-168475f487e2
+[17:30:03] [Server thread/INFO]: [Handshake] Sending channel query
+[17:30:03] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[17:30:03] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[17:30:03] [Server thread/INFO]: VALENINFINITE[/127.158.63.66:56151] logged in with entity id 5024 at (-93.08302250972739, 37.0, 105.68003530500168)
+[17:30:03] [Server thread/INFO]: Sending server config values to client
+[17:30:03] [Server thread/INFO]: Syncing config to VALENINFINITE (12baa43c-379c-3f7e-899a-168475f487e2)
+[17:30:03] [Server thread/INFO]: Loading config from file...
+[17:30:03] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:30:03] [Server thread/INFO]: VALENINFINITE joined the game
+[17:30:03] [Server thread/INFO]: PLAYER_JOIN
+[17:30:03] [Server thread/INFO]: add_player wand
+[17:30:03] [Server thread/INFO]: config sent
+[17:30:04] [Server thread/INFO]: Updating all forceload tickets for 12baa43c-379c-3f7e-899a-168475f487e2
+[17:30:05] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[17:30:05] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: VALENINFINITE -> Global
+[17:30:05] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player VALENINFINITE. Claiming: GRAVE / Robbing: INVENTORY
+[17:30:07] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VALENINFINITE accepted server config.
+[17:31:05] [Server thread/INFO]: ULTRON387 has made the advancement [Not Today, Thank You]
+[17:31:14] [Server thread/INFO]: ULTRON387 has made the advancement [Monster Hunter]
+[17:31:35] [Server thread/INFO]: VALENINFINITE has made the advancement [Tech Reborn]
+[17:32:30] [Server thread/INFO]: Narue has made the advancement [Full Moon in a Pocket]
