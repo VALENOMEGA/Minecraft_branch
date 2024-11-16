@@ -601,7 +601,8 @@
     "criteria": {
       "silver_birch_forest": "2024-11-16 18:29:27 +0000",
       "rocky_meadow": "2024-11-15 04:24:29 +0000",
-      "maple_forest": "2024-11-16 18:28:14 +0000"
+      "maple_forest": "2024-11-16 18:28:14 +0000",
+      "gravel_beach": "2024-11-16 18:35:20 +0000"
     },
     "done": false
   },
@@ -609,7 +610,8 @@
     "criteria": {
       "silver_birch_forest": "2024-11-16 18:29:27 +0000",
       "rocky_meadow": "2024-11-15 04:24:29 +0000",
-      "maple_forest": "2024-11-16 18:28:14 +0000"
+      "maple_forest": "2024-11-16 18:28:14 +0000",
+      "gravel_beach": "2024-11-16 18:35:20 +0000"
     },
     "done": false
   },
@@ -628,6 +630,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:stony_shore": "2024-11-15 17:46:15 +0000",
+      "minecraft:forest": "2024-11-16 18:34:18 +0000",
       "minecraft:ocean": "2024-11-15 18:05:27 +0000",
       "minecraft:plains": "2024-11-15 17:46:41 +0000"
     },
@@ -7953,6 +7956,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-11-16 18:13:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-11-16 18:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-11-16 18:17:05 +0000"
@@ -8088,18 +8103,6 @@
   "mcda:recipes/base_armors/shulker_armor_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-11-16 18:17:05 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
-    "criteria": {
-      "has_diamond_pickaxe": "2024-11-16 18:13:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
-    "criteria": {
-      "has_diamond_pickaxe": "2024-11-16 18:13:41 +0000"
     },
     "done": true
   },
@@ -8256,6 +8259,307 @@
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2024-11-16 18:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/flint_from_gravel": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-11-16 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2024-11-16 18:31:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/polished_slab": {
+    "criteria": {
+      "has_asphalt": "2024-11-16 18:31:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2024-11-16 18:31:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/polished_stairs": {
+    "criteria": {
+      "has_asphalt": "2024-11-16 18:31:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2024-11-16 18:31:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2024-11-16 18:31:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2024-11-16 18:31:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2024-11-16 18:31:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2024-11-16 18:31:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2024-11-16 18:31:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_soil": "2024-11-16 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_soil": "2024-11-16 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-11-16 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_feral_soul": {
+    "criteria": {
+      "has_soul_soil": "2024-11-16 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul": {
+    "criteria": {
+      "has_soul_soil": "2024-11-16 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-11-16 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2024-11-16 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-11-16 18:33:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-11-16 18:33:25 +0000"
+    },
+    "done": false
+  },
+  "mcda:recipes/base_armors/emerald_gear_helmet": {
+    "criteria": {
+      "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
+    "criteria": {
+      "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand": {
+    "criteria": {
+      "has_emerald": "2024-11-16 18:47:04 +0000",
+      "has_the_recipe": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_phantom_bow": {
+    "criteria": {
+      "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
+    "criteria": {
+      "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_green": {
+    "criteria": {
+      "has_emerald": "2024-11-16 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/emerald_nugget": {
+    "criteria": {
+      "has_emerald": "2024-11-16 18:47:04 +0000"
     },
     "done": true
   },
