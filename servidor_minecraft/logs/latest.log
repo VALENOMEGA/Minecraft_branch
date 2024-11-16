@@ -3240,3 +3240,11 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [17:43:31] [Server thread/INFO]: R has made the advancement [Getting an Upgrade]
 [17:43:54] [Server thread/INFO]: R has made the advancement [Monster Hunter]
+[17:44:30] [Server thread/INFO]: VALENINFINITE has made the advancement [Diamonds!]
+[17:44:42] [Server thread/INFO]: [VALENINFINITE: Teleported VALENINFINITE to Narue]
+[17:47:51] [Server thread/INFO]: R has made the advancement [Acquire Hardware]
+[17:50:37] [Server thread/INFO]: Narue has made the advancement [Like Diamonds, But Less Shiny]
+[17:51:36] [Server thread/INFO]: VALENINFINITE lost connection: Disconnected
+[17:51:36] [Server thread/INFO]: VALENINFINITE left the game
+[17:51:36] [Server thread/INFO]: remove player wand
+[17:51:36] [Server thread/INFO]: Updating all forceload tickets for 12baa43c-379c-3f7e-899a-168475f487e2
